@@ -1,4 +1,5 @@
 #DISCLAIMER
+
 This project was made following this tutorial: https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2
 Thanks to @andela-jkithome for sharing the tutorial
 
